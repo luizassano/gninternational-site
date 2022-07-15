@@ -16,6 +16,9 @@
     "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
     "email": "feedback@startbootstrap.com"
   },
+  "scripts": {
+    "build": "react-scripts build"
+  },
   "license": "MIT",
   "author": "Start Bootstrap",
   "contributors": [
